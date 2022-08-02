@@ -1,4 +1,4 @@
-# Benchmark_CITEseq_DOGMAseq
+# Spatial_immunized_mouse_lungs
 
 This repository contains all code used for all analyses:
 
